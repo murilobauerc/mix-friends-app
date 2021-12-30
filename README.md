@@ -1,7 +1,7 @@
 # FriendsApp
 
 **How to run the project:**
-  - You can simply run `mix start` inside on the root project.
+  - You can simply run `mix start` on the root project level.
 
 **Mix:**
   - `mix new <project_name>` - creates a mix project
