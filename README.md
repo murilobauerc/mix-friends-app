@@ -1,5 +1,8 @@
 # FriendsApp
 
+**How to run the project:**
+  - You can simply run `mix start` inside on the root project.
+
 **Mix:**
   - `mix new <project_name>` - creates a mix project
   - `mix` is a CLI which can provide tasks to create, compile and test Elixir projects.
