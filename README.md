@@ -10,13 +10,17 @@
   - type `mix help` in order to have the list of available tasks.
 
 **Notes:**
-
   - `README.md` -> to describe the project
   - `.gitignore` -> git version control system, to ignore some files to be added on github;
   - `mix.exs` -> to describe and manage the project dependencies;
   - `test/` -> folder to locate all the tests;
   - `lib/` -> folder to locate all the files created to execute the project;
   - `config/` -> folder to locate the config files for the project;
+
+**Dependencies:**
+  - [HEX](https://hex.pm) -> package manager for Erlang's ecossystem.
+  - [nimble_csv](hexdocs.pm/nimble_csv]) -> simple and fast CSV parsing lib for Elixir
+  
 
 **Useful commands:**
 
