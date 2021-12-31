@@ -21,6 +21,7 @@
   - [HEX](https://hex.pm) -> package manager for Erlang's ecossystem.
   - [nimble_csv](https://hexdocs.pm/nimble_csv) -> simple and fast CSV parsing lib for Elixir.
   - [faker](https://hex.pm/packages/faker) -> pure elixir lib for generating fake data.
+  - [scribe] -> pretty-print tables of elixir structs and maps.
 
 **Useful commands:**
 
