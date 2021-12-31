@@ -64,8 +64,6 @@ defmodule FriendsApp.CLI.Menu.Choice do
 
     if Shell.yes?("Confirma?") do
       chosen_menu_item
-    else
-      start()
     end
   end
 
