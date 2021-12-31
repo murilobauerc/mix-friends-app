@@ -17,10 +17,10 @@
   - `lib/` -> folder to locate all the files created to execute the project;
   - `config/` -> folder to locate the config files for the project;
 
-**Dependencies:**
+**Dependencies being used:**
   - [HEX](https://hex.pm) -> package manager for Erlang's ecossystem.
-  - [nimble_csv](hexdocs.pm/nimble_csv]) -> simple and fast CSV parsing lib for Elixir
-  
+  - [nimble_csv](https://hexdocs.pm/nimble_csv) -> simple and fast CSV parsing lib for Elixir.
+  - [faker](https://hex.pm/packages/faker) -> pure elixir lib for generating fake data.
 
 **Useful commands:**
 
